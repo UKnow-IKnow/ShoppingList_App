@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Project/ShoppingListApp/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.2740740740740741" />
+        <entry key="..\:/Android Project/ShoppingListApp/app/src/main/res/drawable/border.xml" value="0.2740740740740741" />
         <entry key="..\:/Android Project/ShoppingListApp/app/src/main/res/layout/activity_main.xml" value="0.1634963768115942" />
+        <entry key="..\:/Android Project/ShoppingListApp/app/src/main/res/layout/dialoge.xml" value="0.24094202898550723" />
+        <entry key="..\:/Android Project/ShoppingListApp/app/src/main/res/layout/shopping_list.xml" value="0.24094202898550723" />
       </map>
     </option>
   </component>
